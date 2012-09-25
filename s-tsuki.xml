@@ -6,8 +6,6 @@
 	<inputmode_only>JAPANESE</inputmode_only>
 
 <!--
-    IME モード有効時に起動
-
     通常
       そ   こ   し   て   あ   つ   ん   い   の   り   ち   「
        は  <か> <け> <と>  た   く  <う> <お> <ゆ>  き   れ   」
@@ -19,9 +17,9 @@
         [よ] [す] [に] [な] [さ]  む   ろ   ね   ー   ぃ   ぉ
 
     右中(K)
-      び   ご   じ   ぎ   め  [つ] [ん] [い] [の] [り] [ち] [「]
-      りょ  を  <わ>  ら   で  [く] ぎゃ <き> ぴゅ [ゆ] [れ] [」]
-        でぃ  へ   せ   ふ   べ  [っ] [る] [、] [。] [／] [・]
+      ぞ   ひ   ほ   が   め  [つ] [ん] [い] [の] [り] [ち] [「]
+       ど   を  <わ>  ら   で  [く] ぎゃ <き> ぴゅ [ゆ] [れ] [」]
+        ぎょ  へ   せ   ふ   べ  [っ] [る] [、] [。] [／] [・]
 
     左人(F)
      [そ] [こ] [し] [て] [あ]  ぺ   ば  てぃ しゃ ちぇ ひゃ  ゃ
@@ -29,9 +27,9 @@
         [よ] [す] [に] [な] [さ] [っ] ぎゅ きゅ ひょ びょ  ゅ
 
     右人(J)
-      ぞ   ひ   ほ   が   ぜ  [つ] [ん] [い] [の] [り] [ち] [「]
-       ど   ざ  <も>(じゅ) だ  [く] <う>(ぎゃ)じぇ [ゆ] [れ] [」]
-        ぎょ  ぷ   ず   ぶ   ぱ  [っ] [る] [、] [。] [／] [・]
+     にゃ りゃ  ぴ   ぢ   ぜ  [つ] [ん] [い] [の] [り] [ち] [「]
+       ヴ   ざ  <も>(じゅ) だ  [く] <う>(ぎゃ)じぇ [ゆ] [れ] [」]
+        にゅ  ぷ   ず   ぶ   ぱ  [っ] [る] [、] [。] [／] [・]
 
     左薬(S)
      [そ] [こ] [し] [て] [あ] きゃ しゅ ぬ  ふぃ  うぃ うぇ [「]
@@ -39,9 +37,9 @@
         [よ] [す] [に] [な] [さ] じゃ ふぇ  ぁ  ちゅ  ぼ  [・]
 
     右薬(L)
-     にゃ りゃ  ぴ   ぢ  うぉ [つ] [ん] [い] [の] [り] [ち] [「]
-       ヴ  (げ) (わ)(ちゃ)じょ [く](じぇ|ぴゅ)<お> [ゆ] [れ] [」]
-        にゅ にょ みょ りゅ みゅ [っ] [る] [、] [。] [／] [・]
+      び   ご   じ   ぎ  うぉ [つ] [ん] [い] [の] [り] [ち] [「]
+      りょ (げ) (わ)(ちゃ)じょ [く](じぇ|ぴゅ)<お> [ゆ] [れ] [」]
+        でぃ にょ みょ りゅ みゅ [っ] [る] [、] [。] [／] [・]
 -->
 
 	<!-- 通常 -->
@@ -129,10 +127,10 @@
 
 	<!-- 右中(K) -->
 	<!-- 上段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Q, KeyCode::B, KeyCode::I</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::W, KeyCode::G, KeyCode::O</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::E, KeyCode::J, KeyCode::I</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::R, KeyCode::G, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Q, KeyCode::Z, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::W, KeyCode::H, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::E, KeyCode::H, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::R, KeyCode::G, KeyCode::A</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::T, KeyCode::M, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Y, KeyCode::T, KeyCode::S, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::U, KeyCode::N, KeyCode::N</autogen>
@@ -143,7 +141,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::JIS_BRACKET_LEFT, KeyCode::JIS_BRACKET_LEFT</autogen>
 
 	<!-- 中段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::A, KeyCode::R, KeyCode::Y, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::A, KeyCode::D, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::S, KeyCode::W, KeyCode::O</autogen>
 	<!-- <> -->
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::F, KeyCode::R, KeyCode::A</autogen>
@@ -157,7 +155,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::JIS_BRACKET_RIGHT, KeyCode::JIS_BRACKET_RIGHT</autogen>
 
 	<!-- 下段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Z, KeyCode::D, KeyCode::H, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Z, KeyCode::G, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::X, KeyCode::H, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::C, KeyCode::S, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::V, KeyCode::H, KeyCode::U</autogen>
@@ -215,10 +213,10 @@
 
 	<!-- 右人(J) -->
 	<!-- 上段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::Q, KeyCode::Z, KeyCode::O</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::W, KeyCode::H, KeyCode::I</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::E, KeyCode::H, KeyCode::O</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::R, KeyCode::G, KeyCode::A</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::Q, KeyCode::N, KeyCode::Y, KeyCode::A</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::W, KeyCode::R, KeyCode::Y, KeyCode::A</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::E, KeyCode::P, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::R, KeyCode::D, KeyCode::I</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::T, KeyCode::Z, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::Y, KeyCode::T, KeyCode::S, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::U, KeyCode::N, KeyCode::N</autogen>
@@ -229,7 +227,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::JIS_BRACKET_LEFT, KeyCode::JIS_BRACKET_LEFT</autogen>
 
 	<!-- 中段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::A, KeyCode::D, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::A, KeyCode::V, KeyCode::U, ModifierFlag::SHIFT_L</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::S, KeyCode::Z, KeyCode::A</autogen>
 	<!-- <> -->
 	<!-- <> -->
@@ -243,7 +241,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::JIS_BRACKET_RIGHT, KeyCode::JIS_BRACKET_RIGHT</autogen>
 
 	<!-- 下段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::Z, KeyCode::G, KeyCode::Y, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::Z, KeyCode::N, KeyCode::Y, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::X, KeyCode::P, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::C, KeyCode::Z, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::V, KeyCode::B, KeyCode::U</autogen>
@@ -301,10 +299,10 @@
 
 	<!-- 右薬(L) -->
 	<!-- 上段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::Q, KeyCode::N, KeyCode::Y, KeyCode::A</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::W, KeyCode::R, KeyCode::Y, KeyCode::A</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::E, KeyCode::P, KeyCode::I</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::R, KeyCode::D, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::Q, KeyCode::B, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::W, KeyCode::G, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::E, KeyCode::J, KeyCode::I</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::R, KeyCode::G, KeyCode::I</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::T, KeyCode::U, KeyCode::X, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::Y, KeyCode::T, KeyCode::S, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::U, KeyCode::N, KeyCode::N</autogen>
@@ -315,7 +313,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::JIS_BRACKET_LEFT, KeyCode::JIS_BRACKET_LEFT</autogen>
 
 	<!-- 中段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::A, KeyCode::V, KeyCode::U, ModifierFlag::SHIFT_L</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::A, KeyCode::R, KeyCode::Y, KeyCode::O</autogen>
 	<!-- <> -->
 	<!-- <> -->
 	<!-- <> -->
@@ -329,7 +327,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::JIS_BRACKET_RIGHT, KeyCode::JIS_BRACKET_RIGHT</autogen>
 
 	<!-- 下段 -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::Z, KeyCode::N, KeyCode::Y, KeyCode::U</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::Z, KeyCode::D, KeyCode::H, KeyCode::I</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::X, KeyCode::N, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::C, KeyCode::M, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::V, KeyCode::R, KeyCode::Y, KeyCode::U</autogen>
