@@ -17,9 +17,9 @@
         [よ] [す] [に] [な] [さ]  む   ろ   ね   ー   ぃ   ぉ
 
     右中(K)
-      ぞ   ひ   ほ   が   め  [つ] [ん] [い] [の] [り] [ち] [「]
+      ぞ   ひ   ほ   ふ   め  [つ] [ん] [い] [の] [り] [ち] [「]
        ど   を  <わ>  ら   で  [く] ぎゃ <き> ぴゅ [ゆ] [れ] [」]
-        ぎょ  へ   せ   ふ   べ  [っ] [る] [、] [。] [／] [・]
+        ぎょ  へ   せ   が   べ  [っ] [る] [、] [。] [／] [・]
 
     左人(F)
      [そ] [こ] [し] [て] [あ]  ぺ   ば  てぃ しゃ ちぇ ひゃ  ゃ
@@ -130,7 +130,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Q, KeyCode::Z, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::W, KeyCode::H, KeyCode::I</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::E, KeyCode::H, KeyCode::O</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::R, KeyCode::G, KeyCode::A</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::R, KeyCode::F, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::T, KeyCode::M, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Y, KeyCode::T, KeyCode::S, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::U, KeyCode::N, KeyCode::N</autogen>
@@ -158,7 +158,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::Z, KeyCode::G, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::X, KeyCode::H, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::C, KeyCode::S, KeyCode::E</autogen>
-	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::V, KeyCode::H, KeyCode::U</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::V, KeyCode::G, KeyCode::A</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::B, KeyCode::B, KeyCode::E</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::N, KeyCode::X, KeyCode::T, KeyCode::S, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::K, KeyCode::M, KeyCode::R, KeyCode::U</autogen>
