@@ -28,7 +28,7 @@
 
     右人(J)
      にゃ りゃ  ぴ   ぢ   ぜ  [つ] [ん] [い] [の] [り] [ち] [「]
-       ヴ   ざ  <も> (ば)  だ  [く] <う>(ぎゃ)じぇ [ゆ] [れ] [」]
+       ヴ   ざ  <も> (ば) じょ [く] <う>(ぎゃ)じぇ [ゆ] [れ] [」]
         にゅ  ぷ   ず   ぶ   ぱ  [っ] [る] [、] [。] [／] [・]
 
     左薬(S)
@@ -38,7 +38,7 @@
 
     右薬(L)
       び   ご   じ   ぎ  うぉ [つ] [ん] [い] [の] [り] [ち] [「]
-      りょ (げ) (わ)(ちゃ)じょ [く](じぇ|ぴゅ)<お> [ゆ] [れ] [」]
+      りょ (げ) (わ)(ちゃ) だ  [く](じぇ|ぴゅ)<お> [ゆ] [れ] [」]
         でぃ にょ みょ りゅ みゅ [っ] [る] [、] [。] [／] [・]
 -->
 
@@ -231,7 +231,7 @@
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::S, KeyCode::Z, KeyCode::A</autogen>
 	<!-- <> -->
 	<!-- <> -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::G, KeyCode::D, KeyCode::A</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::G, KeyCode::J, KeyCode::O</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::H, KeyCode::K, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::J, KeyCode::J, KeyCode::U</autogen>
 	<!-- <> -->
@@ -317,7 +317,7 @@
 	<!-- <> -->
 	<!-- <> -->
 	<!-- <> -->
-	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::G, KeyCode::J, KeyCode::O</autogen>
+	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::G, KeyCode::D, KeyCode::A</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::H, KeyCode::K, KeyCode::U</autogen>
 	<autogen>--SimultaneousKeyPresses-- KeyCode::L, KeyCode::J, KeyCode::J, KeyCode::E</autogen>
 	<!-- <> -->
