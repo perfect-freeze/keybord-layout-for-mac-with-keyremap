@@ -31,7 +31,7 @@
            ど   を   ら   あ   よ   ＿  しゅ  ☆   ＿   ＿   ＿   ＿
             ぎょ  へ   せ   ふ   ざ   ＿   ＿   ＿   ＿   ＿   ＿
 
-        COMMAND_R
+        SHIFT_R
           び   ご   じ   ぎ   ぜ   ＿   ＿   ＿   ＿   ＿   ＿   ＿
           りょ  げ   で   ば   だ  ぴょ ぐ  じょ  ☆   ＿   ＿   ＿
             でぃ  ぷ   ず   ぶ   べ  ぎゅ  ＿   ＿   ＿   ＿   ＿
@@ -186,31 +186,31 @@
 	<autogen>--KeyToKey-- KeyCode::B, ModifierFlag::FN, KeyCode::Z, KeyCode::A</autogen>
 
 
-	<!-- COMMAND_R -->
+	<!-- SHIFT_R -->
 	<!-- 上段 -->
-	<autogen>--KeyToKey-- KeyCode::Q, ModifierFlag::COMMAND_R, KeyCode::B, KeyCode::I</autogen>
-	<autogen>--KeyToKey-- KeyCode::W, ModifierFlag::COMMAND_R, KeyCode::G, KeyCode::O</autogen>
-	<autogen>--KeyToKey-- KeyCode::E, ModifierFlag::COMMAND_R, KeyCode::J, KeyCode::I</autogen>
-	<autogen>--KeyToKey-- KeyCode::R, ModifierFlag::COMMAND_R, KeyCode::G, KeyCode::I</autogen>
-	<autogen>--KeyToKey-- KeyCode::T, ModifierFlag::COMMAND_R, KeyCode::Z, KeyCode::E</autogen>
+	<autogen>--KeyToKey-- KeyCode::Q, ModifierFlag::SHIFT_R, KeyCode::B, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::W, ModifierFlag::SHIFT_R, KeyCode::G, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::E, ModifierFlag::SHIFT_R, KeyCode::J, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::R, ModifierFlag::SHIFT_R, KeyCode::G, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::T, ModifierFlag::SHIFT_R, KeyCode::Z, KeyCode::E</autogen>
 
 	<!-- 中段 -->
-	<autogen>--KeyToKey-- KeyCode::A, ModifierFlag::COMMAND_R, KeyCode::R, KeyCode::Y, KeyCode::O</autogen>
-	<autogen>--KeyToKey-- KeyCode::S, ModifierFlag::COMMAND_R, KeyCode::G, KeyCode::E</autogen>
-	<autogen>--KeyToKey-- KeyCode::D, ModifierFlag::COMMAND_R, KeyCode::D, KeyCode::E</autogen>
-	<autogen>--KeyToKey-- KeyCode::F, ModifierFlag::COMMAND_R, KeyCode::B, KeyCode::A</autogen>
-	<autogen>--KeyToKey-- KeyCode::G, ModifierFlag::COMMAND_R, KeyCode::D, KeyCode::A</autogen>
-	<autogen>--KeyToKey-- KeyCode::H, ModifierFlag::COMMAND_R, KeyCode::P, KeyCode::Y, KeyCode::O</autogen>
-	<autogen>--KeyToKey-- KeyCode::J, ModifierFlag::COMMAND_R, KeyCode::G, KeyCode::U</autogen>
-	<autogen>--KeyToKey-- KeyCode::K, ModifierFlag::COMMAND_R, KeyCode::J, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::A, ModifierFlag::SHIFT_R, KeyCode::R, KeyCode::Y, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::S, ModifierFlag::SHIFT_R, KeyCode::G, KeyCode::E</autogen>
+	<autogen>--KeyToKey-- KeyCode::D, ModifierFlag::SHIFT_R, KeyCode::D, KeyCode::E</autogen>
+	<autogen>--KeyToKey-- KeyCode::F, ModifierFlag::SHIFT_R, KeyCode::B, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::G, ModifierFlag::SHIFT_R, KeyCode::D, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::H, ModifierFlag::SHIFT_R, KeyCode::P, KeyCode::Y, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::J, ModifierFlag::SHIFT_R, KeyCode::G, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::K, ModifierFlag::SHIFT_R, KeyCode::J, KeyCode::O</autogen>
 
 	<!-- 下段 -->
-	<autogen>--KeyToKey-- KeyCode::Z, ModifierFlag::COMMAND_R, KeyCode::D, KeyCode::H, KeyCode::I</autogen>
-	<autogen>--KeyToKey-- KeyCode::X, ModifierFlag::COMMAND_R, KeyCode::P, KeyCode::U</autogen>
-	<autogen>--KeyToKey-- KeyCode::C, ModifierFlag::COMMAND_R, KeyCode::Z, KeyCode::U</autogen>
-	<autogen>--KeyToKey-- KeyCode::V, ModifierFlag::COMMAND_R, KeyCode::B, KeyCode::U</autogen>
-	<autogen>--KeyToKey-- KeyCode::B, ModifierFlag::COMMAND_R, KeyCode::B, KeyCode::E</autogen>
-	<autogen>--KeyToKey-- KeyCode::N, ModifierFlag::COMMAND_R, KeyCode::G, KeyCode::Y, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::Z, ModifierFlag::SHIFT_R, KeyCode::D, KeyCode::H, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::X, ModifierFlag::SHIFT_R, KeyCode::P, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::C, ModifierFlag::SHIFT_R, KeyCode::Z, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::V, ModifierFlag::SHIFT_R, KeyCode::B, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::B, ModifierFlag::SHIFT_R, KeyCode::B, KeyCode::E</autogen>
+	<autogen>--KeyToKey-- KeyCode::N, ModifierFlag::SHIFT_R, KeyCode::G, KeyCode::Y, KeyCode::U</autogen>
 
 </item>
 </root>
