@@ -21,7 +21,7 @@
        ＿   ＿   ＿   ＿   ＿   ぱ   ぼ  じゅ きゅ びゅ しぇ  ょ
          ＿   ＿   ＿   ＿   ＿  じゃ ちゃ きゃ ひょ びょ  ゅ
 
-    OPTION_L
+    OPTION_L | COMMAND_L
       ＿   ＿   ＿   ＿   ＿  うぉ うぃ  ぁ   ぢ  ふぃ りゃ にゃ
        ＿   ＿   ＿  ちゅ ふぉ ふぇ うぇ ぎゃ  ぴ  びゃ  ぽ   ヴ
          ＿   ☆   ＿   ＿   ぅ  ぴゅ みゅ りゅ みょ にょ にゅ
@@ -160,6 +160,36 @@
 	<autogen>--KeyToKey-- KeyCode::DOT, ModifierFlag::OPTION_L, KeyCode::M, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--KeyToKey-- KeyCode::SLASH, ModifierFlag::OPTION_L, KeyCode::N, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--KeyToKey-- KeyCode::JIS_UNDERSCORE, ModifierFlag::OPTION_L, KeyCode::N, KeyCode::Y, KeyCode::U</autogen>
+
+	<!-- COMMAND_L -->
+	<!-- 上段 -->
+	<autogen>--KeyToKey-- KeyCode::Y, ModifierFlag::COMMAND_L, KeyCode::U, KeyCode::X, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::U, ModifierFlag::COMMAND_L, KeyCode::U, KeyCode::X, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::I, ModifierFlag::COMMAND_L, KeyCode::X, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::O, ModifierFlag::COMMAND_L, KeyCode::D, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::P, ModifierFlag::COMMAND_L, KeyCode::F, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_ATMARK, ModifierFlag::COMMAND_L, KeyCode::R, KeyCode::Y, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_BRACKET_LEFT, ModifierFlag::COMMAND_L, KeyCode::N, KeyCode::Y, KeyCode::A</autogen>
+
+	<!-- 中段 -->
+	<autogen>--KeyToKey-- KeyCode::F, ModifierFlag::COMMAND_L, KeyCode::C, KeyCode::H, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::G, ModifierFlag::COMMAND_L, KeyCode::F, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::H, ModifierFlag::COMMAND_L, KeyCode::F, KeyCode::E</autogen>
+	<autogen>--KeyToKey-- KeyCode::J, ModifierFlag::COMMAND_L, KeyCode::U, KeyCode::X, KeyCode::E</autogen>
+	<autogen>--KeyToKey-- KeyCode::K, ModifierFlag::COMMAND_L, KeyCode::G, KeyCode::Y, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::L, ModifierFlag::COMMAND_L, KeyCode::P, KeyCode::I</autogen>
+	<autogen>--KeyToKey-- KeyCode::SEMICOLON, ModifierFlag::COMMAND_L, KeyCode::B, KeyCode::Y, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_COLON, ModifierFlag::COMMAND_L, KeyCode::P, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_BRACKET_RIGHT, ModifierFlag::COMMAND_L, KeyCode::V, KeyCode::U, ModifierFlag::SHIFT_L</autogen>
+
+	<!-- 下段 -->
+	<autogen>--KeyToKey-- KeyCode::B, ModifierFlag::COMMAND_L, KeyCode::X, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::N, ModifierFlag::COMMAND_L, KeyCode::P, KeyCode::Y, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::M, ModifierFlag::COMMAND_L, KeyCode::M, KeyCode::Y, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::COMMA, ModifierFlag::COMMAND_L, KeyCode::R, KeyCode::Y, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::DOT, ModifierFlag::COMMAND_L, KeyCode::M, KeyCode::Y, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::SLASH, ModifierFlag::COMMAND_L, KeyCode::N, KeyCode::Y, KeyCode::O</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_UNDERSCORE, ModifierFlag::COMMAND_L, KeyCode::N, KeyCode::Y, KeyCode::U</autogen>
 
 
 	<!-- FN -->
