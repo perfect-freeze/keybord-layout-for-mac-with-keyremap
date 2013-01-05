@@ -150,7 +150,7 @@
 	<autogen>--KeyToKey-- KeyCode::Q, ModifierFlag::EXTRA3, KeyCode::Z, KeyCode::O</autogen>
 	<autogen>--KeyToKey-- KeyCode::W, ModifierFlag::EXTRA3, KeyCode::H, KeyCode::I</autogen>
 	<autogen>--KeyToKey-- KeyCode::E, ModifierFlag::EXTRA3, KeyCode::H, KeyCode::O</autogen>
-	<autogen>--KeyToKey-- KeyCode::R, ModifierFlag::EXTRA3, KeyCode::G, KeyCode::A</autogen>
+	<autogen>--KeyToKey-- KeyCode::R, ModifierFlag::EXTRA3, KeyCode::F, KeyCode::U</autogen>
 	<autogen>--KeyToKey-- KeyCode::T, ModifierFlag::EXTRA3, KeyCode::M, KeyCode::E</autogen>
 
 	<!-- 中段(通常) -->
@@ -178,7 +178,7 @@
 	<autogen>--KeyToKey-- KeyCode::Z, ModifierFlag::EXTRA3, KeyCode::G, KeyCode::Y, KeyCode::O</autogen>
 	<autogen>--KeyToKey-- KeyCode::X, ModifierFlag::EXTRA3, KeyCode::H, KeyCode::E</autogen>
 	<autogen>--KeyToKey-- KeyCode::C, ModifierFlag::EXTRA3, KeyCode::S, KeyCode::E</autogen>
-	<autogen>--KeyToKey-- KeyCode::V, ModifierFlag::EXTRA3, KeyCode::F, KeyCode::U</autogen>
+	<autogen>--KeyToKey-- KeyCode::V, ModifierFlag::EXTRA3, KeyCode::G, KeyCode::A</autogen>
 	<autogen>--KeyToKey-- KeyCode::B, ModifierFlag::EXTRA3, KeyCode::Z, KeyCode::A</autogen>
 
 
