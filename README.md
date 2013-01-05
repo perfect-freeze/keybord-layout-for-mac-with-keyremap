@@ -12,10 +12,10 @@ mac with KeyRemap4MacBook 用 月配列 俺式
 1. KeyRemap4MacBook の設定で ReloadXML して、「月配列(俺版)」にチェックを入れる
 1. 下記レイアウトをプリントアウトして席の右側のパーティションに画鋲で貼り付ける
 
-    <?xml version="1.0"?>
-    <root>
-    	<include path="/path/to/s-tsuki.xml" />
-    </root>
+        <?xml version="1.0"?>
+        <root>
+        	<include path="/path/to/s-tsuki.xml" />
+        </root>
 
 レイアウト
 ----------
