@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<root>
+<item>
+	<name>基本配列変更</name>
+	<identifier>private.base_shun</identifier>
+
+	<autogen>__KeyToKey__ KeyCode::RawValue::0xa, KeyCode::SHIFT_L</autogen>
+</item>
+</root>
