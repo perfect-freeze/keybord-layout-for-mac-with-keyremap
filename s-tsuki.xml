@@ -7,6 +7,7 @@
 
 	<!-- SKK 用 work around -->
 	<autogen>--KeyToKey-- KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::DELETE</autogen>
+	<autogen>--KeyToKey-- KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::Q</autogen>
 
 	<!-- 通常 -->
 	<!-- 上段 -->
