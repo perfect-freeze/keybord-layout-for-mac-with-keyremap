@@ -5,6 +5,9 @@
 	<identifier>private.tsu_ki_shun</identifier>
 	<inputmode_only>JAPANESE</inputmode_only>
 
+	<!-- SKK 用 work around -->
+	<autogen>--KeyToKey-- KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::DELETE</autogen>
+
 	<!-- 通常 -->
 	<!-- 上段 -->
 	<autogen>--KeyToKey-- KeyCode::Q, ModifierFlag::NONE, KeyCode::S, KeyCode::O</autogen>
