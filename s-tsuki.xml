@@ -7,7 +7,6 @@
 
 	<autogen>--KeyToKey-- KeyCode::COMMA, ModifierFlag::SHIFT_L, KeyCode::COMMA</autogen>
 	<autogen>--KeyToKey-- KeyCode::DOT, ModifierFlag::SHIFT_L, KeyCode::DOT</autogen>
-	<autogen>--KeyToKey-- KeyCode::JIS_UNDERSCORE, ModifierFlag::SHIFT_L, KeyCode::SLASH</autogen>
 
 	<!-- 通常 -->
 	<!-- 上段 -->
