@@ -5,9 +5,9 @@
 	<identifier>private.tsu_ki_shun</identifier>
 	<inputmode_only>JAPANESE</inputmode_only>
 
-	<!-- SKK 用 work around -->
-	<autogen>--KeyToKey-- KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::DELETE</autogen>
-	<autogen>--KeyToKey-- KeyCode::D, ModifierFlag::SHIFT_L, KeyCode::Q</autogen>
+	<autogen>--KeyToKey-- KeyCode::COMMA, ModifierFlag::SHIFT_L, KeyCode::COMMA</autogen>
+	<autogen>--KeyToKey-- KeyCode::DOT, ModifierFlag::SHIFT_L, KeyCode::DOT</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_UNDERSCORE, ModifierFlag::SHIFT_L, KeyCode::SLASH</autogen>
 
 	<!-- 通常 -->
 	<!-- 上段 -->
@@ -44,10 +44,10 @@
 	<autogen>--KeyToKey-- KeyCode::B, ModifierFlag::NONE, KeyCode::S, KeyCode::A</autogen>
 	<autogen>--KeyToKey-- KeyCode::N, ModifierFlag::NONE, KeyCode::X, KeyCode::T, KeyCode::S, KeyCode::U</autogen>
 	<autogen>--KeyToKey-- KeyCode::M, ModifierFlag::NONE, KeyCode::R, KeyCode::U</autogen>
-	<autogen>--KeyToKey-- KeyCode::COMMA, ModifierFlag::NONE, KeyCode::COMMA</autogen>
-	<autogen>--KeyToKey-- KeyCode::DOT, ModifierFlag::NONE, KeyCode::DOT</autogen>
+	<autogen>--KeyToKey-- KeyCode::COMMA, ModifierFlag::NONE, KeyCode::K, ModifierFlag::SHIFT_L, KeyCode::DELETE</autogen>
+	<autogen>--KeyToKey-- KeyCode::DOT, ModifierFlag::NONE, KeyCode::Q</autogen>
 	<autogen>--KeyToKey-- KeyCode::SLASH, ModifierFlag::NONE, KeyCode::VK_MODIFIER_EXTRA5</autogen>
-	<autogen>--KeyToKey-- KeyCode::JIS_UNDERSCORE, ModifierFlag::NONE, KeyCode::SLASH</autogen>
+	<autogen>--KeyToKey-- KeyCode::JIS_UNDERSCORE, ModifierFlag::NONE, KeyCode::G, ModifierFlag::CONTROL_L</autogen>
 
 
 	<!-- 左手1(D) -->
