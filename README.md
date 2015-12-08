@@ -22,7 +22,7 @@ mac with KeyRemap4MacBook 用 月配列 俺式
 レイアウト
 ----------
 
-    IME モード有効時に起動
+* IME モード有効時に起動
 
 ```
 通常
